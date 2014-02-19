@@ -7,10 +7,10 @@ font-family:".HiraKakuInterface-W1",'Lucida Grande',
 }
 /* Override base .btn styles */
 /* Apply text and background changes to three key states: default, hover, and active (click). */
-#accordion-group0{background-color:  #ea3b13;}/* 燃やせるごみ */
-#accordion-group1{background-color:  #733b96;}/* 燃やせないごみ */
-#accordion-group2{background-color:  #77ae1f;}/* 燃やせる？ */
-#accordion-group3{background-color:  #2dc7aa;}/* 粗大系燃やせるごみ */
+#accordion-group0{background-color:  #ea3b13;}/* 燃やせるない */
+#accordion-group1{background-color:  #77ae1f;}/* 資源 */
+#accordion-group2{background-color:  #2dc7aa;}/* 燃やせる */
+#accordion-group3{background-color:  #733b96;}/* 粗大系燃やせるごみ */
 
 
 .accordion-group{margin-bottom:0;border:0;border-radius:0}
