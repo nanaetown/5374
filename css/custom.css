@@ -9,8 +9,8 @@ font-family:".HiraKakuInterface-W1",'Lucida Grande',
 /* Apply text and background changes to three key states: default, hover, and active (click). */
 #accordion-group0{background-color:  #2dc7aa;}/* 燃やせるごみ */
 #accordion-group1{background-color:  #733b96;}/* 燃やせないごみ */
-#accordion-group2{background-color:  #ea3b13;}/* 資源ごみ */
-#accordion-group3{background-color:  #77ae1f;}/* 粗大系燃やせるごみ */
+#accordion-group2{background-color:  #77ae1f;}/* 資源ごみ */
+#accordion-group3{background-color:  #ea3b13;}/* 粗大系燃やせるごみ */
 
 
 .accordion-group{margin-bottom:0;border:0;border-radius:0}
